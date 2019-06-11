@@ -1,0 +1,92 @@
+Hash table from input files: 
+1 Riley 39
+5 Carter 12
+7 Brewer 11
+9 Fleming 31
+11 Salazar 2
+16 Dawson 39
+18 Santiago 49
+21 Rodriguez 74
+22 Vargas 57
+23 Peterson 32
+28 Wyatt 97
+29 Ingram 14
+30 Martin 78
+32 Warren 3
+35 Hall 84
+37 Patel 81
+38 Coleman 10
+41 Mccarthy 95
+42 Osborne 17
+44 Sanders 46
+45 Kelley 91
+47 Alexander 66
+48 Reed 72
+49 Christensen 48
+51 Flynn 28
+Elements with next keys are being deleted: 
+Patel
+Reed
+Vargas
+Mccarthy
+Flynn
+Wyatt
+Kelley
+Fleming
+Rodriguez
+Sanders
+Carter
+Salazar
+Warren
+Hash Table after removal first 25 elements from input list
+1 Riley 39
+7 Brewer 11
+16 Dawson 39
+18 Santiago 49
+23 Peterson 32
+29 Ingram 14
+30 Martin 78
+35 Hall 84
+38 Coleman 10
+42 Osborne 17
+47 Alexander 66
+49 Christensen 48
+Adding the same elements after their removal
+0 Kelley 91
+1 Riley 39
+2 Alexander 66
+3 Brewer 11
+4 Osborne 17
+5 Carter 12
+7 Brewer 11
+9 Fleming 31
+10 Christensen 48
+11 Salazar 2
+12 Flynn 28
+16 Dawson 39
+18 Santiago 49
+21 Rodriguez 74
+22 Vargas 57
+23 Peterson 32
+25 Coleman 10
+27 Ingram 14
+28 Wyatt 97
+29 Ingram 14
+30 Martin 78
+31 Santiago 49
+32 Warren 3
+33 Riley 39
+35 Hall 84
+37 Patel 81
+38 Coleman 10
+40 Peterson 32
+41 Mccarthy 95
+42 Osborne 17
+44 Sanders 46
+46 Martin 78
+47 Alexander 66
+48 Reed 72
+49 Christensen 48
+50 Dawson 39
+51 Hall 84
+Hash table was deleted successfully
